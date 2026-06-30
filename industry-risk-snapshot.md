@@ -10,6 +10,4 @@
 | Có cần human review hoặc escalation không? | **Critical** | Bắt buộc phải có bác sĩ/y tá xác nhận trước khi hành động dựa trên gợi ý của AI. Tuy nhiên thực tế cho thấy cơ chế này dễ bị suy yếu (alert fatigue, áp lực KPI buộc nhân viên bám sát dự đoán AI). |
 | **Risk profile tổng thể của ngành** | **Critical** | Y tế hội tụ đủ cả 6 yếu tố ở mức cao nhất: ảnh hưởng thể chất trực tiếp, quyết định hệ trọng, dữ liệu nhạy cảm, hậu quả khó đảo ngược, blast radius lớn, và cần human review nghiêm ngặt. Đây là một trong những ngành có risk profile cao nhất trong số 6 ngành của bài lab. |
 
-## Gợi ý theo ngành (tham khảo từ đề bài)
 
-Y tế / symptom checker / health assistant: **injury, harmful advice, delayed intervention, dữ liệu sức khỏe** — đúng với cả 3 case được phân tích trong repo này (xem [industry-pattern-summary.md](industry-pattern-summary.md)).

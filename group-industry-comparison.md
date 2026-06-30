@@ -38,4 +38,4 @@ Trong 6 ngành, **Y tế và Mobility có risk profile Critical cao nhất** vì
 | Media / news / social / political assistant | Cuộc gọi tự động deepfake giọng Biden trước bầu cử sơ bộ New Hampshire, FCC phạt (1/2024) | NPR (23/05/2024): https://www.npr.org/2024/05/23/nx-s1-4977582/fcc-ai-deepfake-robocall-biden-new-hampshire-political-operative — FCC: https://www.fcc.gov/document/fcc-proposes-6-million-fine-deepfake-robocalls-around-nh-primary |
 | Content creator | New York Times kiện OpenAI và Microsoft vi phạm bản quyền (12/2023) | NPR (27/12/2023): https://www.npr.org/2023/12/27/1221821750/new-york-times-sues-chatgpt-openai-microsoft-for-copyright-infringement — CNBC: https://www.cnbc.com/2023/12/27/new-york-times-sues-microsoft-chatgpt-maker-openai-over-copyright-infringement.html |
 
-> Các case tham khảo trên chỉ dùng để có căn cứ điền bảng so sánh, **không thay thế** yêu cầu Brief Case + Harm Map Worksheet đầy đủ (yêu cầu đó chỉ áp dụng cho ngành Y tế mà cá nhân học viên đã chọn).
+
