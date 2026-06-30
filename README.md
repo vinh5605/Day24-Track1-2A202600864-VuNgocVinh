@@ -20,9 +20,4 @@ Bài nộp Lab — Case Study Hunt và Harm Map theo Ngành.
 | [industry-pattern-summary.md](industry-pattern-summary.md) | Tổng hợp pattern rủi ro của ngành Y tế |
 | [group-industry-comparison.md](group-industry-comparison.md) | File tổng hợp nhóm — bảng so sánh risk profile giữa các ngành |
 
-## Ghi chú quan trọng trước khi nộp
 
-- Cả 3 case đã được tìm và xác minh qua search engine tới nguồn gốc (peer-reviewed journal, tạp chí Science, court filing), **không** dùng ChatGPT/Claude/Perplexity làm nguồn trích dẫn.
-- **Việc cần làm trước khi nộp:** tự mở lại từng link nguồn trong các Brief Case để xác nhận số liệu, ngày tháng còn đúng (đặc biệt Case 3 — vụ kiện đang tố tụng, có thể có cập nhật mới).
-- File [group-industry-comparison.md](group-industry-comparison.md) mới chỉ điền sẵn hàng "Y tế" dựa trên phân tích cá nhân — các hàng ngành khác và đoạn tổng hợp risk profile giữa các ngành cần điền sau khi **share thật với cả bàn** (Bước 5–6 của bài lab).
-- Không có API key/token/credential/dữ liệu cá nhân nhạy cảm nào trong repo này.
